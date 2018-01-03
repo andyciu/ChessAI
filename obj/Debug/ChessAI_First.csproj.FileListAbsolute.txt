@@ -1,0 +1,6 @@
+E:\文件\Git\ChessAI\obj\Debug\ChessAI_First.csproj.CoreCompileInputs.cache
+E:\文件\Git\ChessAI\bin\Debug\ChessAI_First.exe.config
+E:\文件\Git\ChessAI\bin\Debug\ChessAI_First.exe
+E:\文件\Git\ChessAI\bin\Debug\ChessAI_First.pdb
+E:\文件\Git\ChessAI\obj\Debug\ChessAI_First.exe
+E:\文件\Git\ChessAI\obj\Debug\ChessAI_First.pdb
